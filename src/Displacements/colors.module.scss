@@ -1,0 +1,24 @@
+$darkGrey: #101112;
+$lightGrey:#27292c;
+$blue: #002fff;
+$middleBlue: #00bfff;
+$green: #00ff08;
+$yellow: #f1ff34;
+$orange: #ff6600;
+
+$blueGrey: #546b87;
+$lightBlue: #a0d1fb;
+$beige: #f3e9d6;
+
+$white: #e5ecf5;
+
+:export {
+    darkGrey: $darkGrey;
+    lightGrey: $lightGrey;
+    orange: $orange;
+    blue: $blue;
+    middleBlue: $middleBlue;
+    green: $green;
+    yellow: $yellow;
+    lightBlue: $lightBlue;
+}
